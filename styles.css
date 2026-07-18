@@ -5,7 +5,7 @@
     --cor-fonte-secundaria: #c0c0c0;
     --botao-azul: #167bf7;
     --cor-de-fundo: #00030c;
-    --fonte-principal: 'inter'
+    --fonte-principal: 'Inter', sans-serif;
 }
 
 body {
@@ -154,7 +154,6 @@ body {
     margin: 1em 0;
 }
 
-/* Responsividade para celulares */
 @media screen and (max-width: 768px) {
 
     .container {
